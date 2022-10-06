@@ -39,9 +39,6 @@
     background-color: white;
     color: steelblue;
   }
-  * {
-    border: 2px solid blue;
-  }
 main p {
   width: 80%;
   margin: 50px auto;
