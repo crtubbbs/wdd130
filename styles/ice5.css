@@ -1,0 +1,23 @@
+body{
+    margin: 0
+}
+.circles{
+    text-align: center;
+    width:100%
+}
+.column {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+.icon {
+    width: 70%;
+    border-radius: 50%;
+    border: 30px solid rgba(46, 43, 43, 0.722);
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.bottom{
+    background-color: rgb(96, 87, 87);
+}
