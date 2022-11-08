@@ -203,6 +203,30 @@ footer .social img{
     padding-top:15px;
 }
 
+
+.home-grid2{
+    font-family: var(--paragraph-font);
+
+}
+
+.river-img{
+    margin-top: 10px;
+}
+
+.rivers-img1 h2{
+    font-family: var(--heading-font);
+    color: var(--secondary-color);
+}
+.rivers-img1 p{
+    color: var(--accent2-color);
+
+}
+
+
+
+
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
